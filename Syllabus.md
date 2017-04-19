@@ -29,62 +29,39 @@ Day | Time
 Monday | TBD
 
 ## Course Description
-This course is an introduction to the discipline of computer science, with a focus on the 
-design and implementation of algorithms to solve simple problems using a high-level programming 
-language. Topics include fundamental programming constructs, problem-solving strategies, 
-debugging techniques, declaration models, and an overview of procedural and object-oriented 
-programming languages. Students will learn to design, implement, test, and debug algorithms 
-using pseudocode and a high-level programming language. Not open to students who have previously 
-received credit for COMS B14.
-**Prerequisite**: Reading - one level prior to transfer and
-Mathematics - one level prior to transfer .
-**Recommended**: COMP B10 with a grade of ‘C’ or better or instructor
-approval.
+This course is designed as a first course in software engineering for mixed-majors, with an emphasis on the Computer 
+Science major. Students will use the object-oriented programming language Python to learn the fundamentals of programming. 
+Topics include: variables, sequence, selection, iteration, the software life-cycle, as well as common programming algorithms 
+such as sorting and searching. Not open to students who have previously received credit for COMS B10.
+
 
 ## Student Learning Outcomes
-Understand and know how to use fundamental programming constructs 
-* Analyze and explain the behavior of simple programs involving the fundamental programming constructs covered by this unit. 
-* Modify and expand short programs that use standard conditional and iterative control structures and functions. 
-* Design, implement, test, and debug a program that uses each of the following fundamental programming constructs: basic computation, simple I/O, standard conditional and iterative structures, and the definition of functions. 
-* Choose appropriate conditional and iteration constructs for a given programming task. 
-* Apply the techniques of structured (functional) decomposition to break a program into smaller pieces. 
-* Describe the mechanics of parameter passing. 
-* Design, implement, test, and debug simple programs in an object-oriented programming language.
+* Describe and apply the software development life-cycle to a given problem. 
+* Describe the principles of structured programming and be able to describe, design, implement, and test structured programs using currently accepted methodology and control structures. 
+* Explain what an algorithm is and then be able to translate an algorithm into a programming language.
 
-Design and implement algorithms to solve problems 
-* Discuss the importance of algorithms in the problem-solving process. 
-* Identify the necessary properties of good algorithms. 
-* Create algorithms for solving simple problems. 
-* Use pseudocode or a programming language to implement, test, and debug algorithms for solving simple problems. 
-* Describe strategies that are useful in debugging.
-
-
-Discuss general programming-language ideas 
-* Summarize the evolution of programming languages illustrating how this history has led to the paradigms available today. 
-* Identify at least one distinguishing characteristic for each of the programming paradigms covered in this unit.
-
-Understand and use variables and types 
-* Explain the value of declaration models, especially with respect to programming-in-the-large. 
-* Identify and describe the properties of a variable such as its associated address, value, scope, persistence, and size. 
-* Discuss type incompatibility. 
-* Demonstrate different forms of binding, visibility, scoping, and lifetime management. 
-* Defend the importance of types and type-checking in providing abstraction and safety. 
-* Design and implement user-defined types, using Object-Oriented principles.	
-
-## Reference books or materials:
+## Textbook
 
 ### Required:
-* MSDN
+* Starting Out W/Python (LOOSELEAF) (3rd edition) by Tony Gaddis, ISBN: 9780133848496
+* Flash Drive
+* BC Email Account
+* GitHub Account w/ Student Access
+    * Private Repositories Required
+* Four (4) green 100-answer test scan sheets (FORM NO. 882-ES).
+* https://www.python.org/doc/
 
-### Optional
-* C# How to Program
-* C# In Depth
 
 ## Accommodations 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student 
+Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon 
+as possible to better ensure such accommodations are implemented in a timely fashion.
 
 ## Equity and Inclusion
-Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
+Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open 
+communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. 
+BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding 
+that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
 
 ## Course Policies  
 Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards section of the Bakersfield College Catalog.
@@ -121,13 +98,12 @@ Make-up exams or quizzes will not be given and late assignments will not be acce
 You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. 
 You will not be given extra time to complete the exam or quiz if you start late.
 
-
 ## Extra Credit
 Go to a BC Library Workshop (5 pts)  
 [Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
 * Maximum of two workshops per semester course
 
-Participate in BC Hackathon Spring 2017 (20 pts)
+Participate in BC Hackathon Spring 2017 (10 pts)
 * March 17th - 19th
 * Must complete the competition
 
@@ -152,24 +128,24 @@ May 12 | End of Spring Semester
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Intro. to C++ | Ch. 1 - 8 | 
-2 |  Intro. to C++ | Ch. 1 - 8 | Homework 1 Due
-3 |  Intro. to C++ | Ch. 1 - 8 | Homework 2 Due
-4 | Classes/Inheritance | Ch. 13 - 15 | 
-5  | Pointers | Ch. 9 | Homework 3 Due 
-6 | Polymorphism/Templates | Ch. 15, 16 | Homework 4 Due 
-7 | Recursion | Ch. 19 | Homework 5 Due 
-8 | Exceptions/Standard Template Library | Ch. 15, 16 | 
-9 | MidTerm | | 
-10 | Linked Lists | Ch. 17 | Homework 6 Due
-11 | Stacks | Ch. 18 | Homework 7 Due
-12 | Queues | Ch. 18| Homework 8 Due
-13 | Spring Break - Campus Closed | | Homework 9 Due
-14 | Searching & Sorting |  | 
-15  | Binary Trees | Ch. 20 | Homework 10 Due
-16 | Hash Tables Graph | |
-17 | Finals Week | | 
- |  Final Exam May 10 from 12:00PM -1:50PM | **Bring ScanTron** | 
+1 | Introduction | Ch. 1 |
+2 | Input, Processing, and Output | Ch. 2 | 
+3 | Decision Structures | Ch. 3 | Homework 1 Due
+4 | Repetition Structures | Ch. 4 | Homework 2 Due
+5 | Functions | Ch. 5 | Homework 3 Due 
+6 | Files and Exceptions | Ch. 6 | Homework 4 Due
+7 | Lists and Tuples | Ch. 7 | Homework 5 Due
+8 | Midterm | | 
+9 | More about Strings | Ch. 8 | Homework 6 Due
+10 | Dictionaries and Sets | Ch. 9 | Homework 7 Due 
+11 | Classes and Object Oriented Programming | Ch. 10 | Homework 8 Due 
+12 | Classes cont. | | Homework 9 Due
+13 | Spring Break - Campus Closed | | 
+14 | Inheritence | Ch. 11 | Homework 10 Due
+15 | Recursion | Ch. 12 |
+16 | GUI Programming | Ch. 13 |
+17 | Finals Week | |  
+  |  **Thurs., May 11 from 12PM - 1:50PM** | | 
 
-### Read the material for the week before class
-### This syllabus is tentative and subject to change
+### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
+### This syllabus is TENTATIVE and subject to change

@@ -1,4 +1,4 @@
-# Computer Science 3900 - C#: Client, Server, and Mobile Device Programming 
+# Computer Science 1010 - Programming Concepts and Methodology I
 ## Spring 2017 CRN: 0x1337
 
 ### Eddie Rangel
@@ -29,11 +29,6 @@ Day | Time
 Monday | TBD
 
 ## Course Description
-This course will use C#'s object oriented programming features and associated .Net Core libraries to explore
-client-side,  server-side, and mobile programming. The concepts of 
-multi-threading, synchronization, and network programming (socket and
-Remote Method Invocation) will be introduced and used to develop Internet
-client-server programs such as  chat room, on-line help, file transfer etc.
-The concepts of graphic user interfaces (GUIs)  and mobile devices(such
-as a phone or tablet) will be discussed and applied in student projects.
-**Prerequisite**: An understanding of Data Structures and Object Oriented Programming
+This course is designed as a first course in software engineering for mixed-majors, with an emphasis on the Computer 
+Science major. Students will use the object-oriented programming language Python to learn the fundamentals of programming. 
+Topics include: variables, sequence, selection, iteration, the software life-cycle, as well as common programming algorithms such as sorting and searching. Not open to students who have previously received credit for COMS B10.
