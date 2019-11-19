@@ -31,13 +31,13 @@ Understand and use variables and types
 ## 10 Lesson Outline
 Session | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Intro to Computing | History of Computers | 
-2 | Intro to Programming | What is Programming | Homework 1 Due
-3 |  Intro. to C++ | The Language | Homework 2 Due
-4 | Expressions and Interactivity| Asking Questions/Solving Problems | 
-5 | Making Decisions | Creating Conditions | Homework 3 Due 
-6 |Loops and Files | To Iterate | Homework 4 Due 
-7 | Functions | Small Batches | Homework 5 Due 
-8 | Arrays and Vectors| Storage Containers | 
-9 | Searching and Sorting | Traversing a List | 
-10 |Structured Data | Attribute Driven Design | Homework 6 Due
+1 | Intro to Computing | History of Computers | HW 1
+2 | Intro to Programming | What is Programming | HW 2
+3 |  Intro. to C# | The Language | HW 3
+4 | Expressions and Interactivity| Asking Questions/Solving Problems | HW 4
+5 | Making Decisions | Creating Conditions | HW 5
+6 |Loops and Files | To Iterate | HW 6
+7 | Functions | Small Batches | HW 7
+8 | Arrays and Vectors| Storage Containers | HW 8
+9 | Searching and Sorting | Traversing a List | HW 9
+10 |Structured Data | Attribute Driven Design | HW 10
