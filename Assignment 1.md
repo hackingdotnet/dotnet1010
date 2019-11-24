@@ -20,8 +20,24 @@ Think about the first time you drove a car. You may not have known how an automa
 the gas pedal and gear shift were provided for an explicit reason and without them, your driving experience may not have been very meaningful. 
 
 
+## Learn by Doing
+There is plenty of documentation and resources available on the internet to assist you in installing the software on your OS of choice. 
+
+The most important thing to remember, and one of the hardest thing to do consistently, is to read the documentation before you begin. Even if you are comfortable with installing software, there are always edge cases that occur so it is best to read the docs first. This provides a level of understanding that allows you to be resiliant when your install doesn't go as anticipated. It may not happen today, but it will happen the longer you study and work with software. 
+
 ## Install SDK
+The [.Net Core](https://dotnet.microsoft.com/) is an Open Source Framework developed by Microsoft. This is the minimum set of resources needed to begin your journey. 
 
 ## Install Code Editor
+I will use [Visual Studio Code](https://code.visualstudio.com/) for quick application development and prototyping. This is a light weight editor that is meant
+to get up and running quickly. 
+
 
 ## Run the world's Most famous first program
+
+````csharp
+public static void main()
+{
+    System.console.writeline("Hello everyone! Welcome to my world");
+}
+````
