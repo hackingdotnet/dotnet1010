@@ -24,4 +24,4 @@ the gas pedal and gear shift were provided for an explicit reason and without th
 
 ## Install Code Editor
 
-## Run the world's Most famouse first program
+## Run the world's Most famous first program
