@@ -33,11 +33,22 @@ I will use [Visual Studio Code](https://code.visualstudio.com/) for quick applic
 to get up and running quickly. 
 
 
-## Run the world's Most famous first program
+## Run my version of the world's most famous first program
 
 ````csharp
-public static void main()
+using System;
+
+namespace FirstApp
 {
-    System.console.writeline("Hello everyone! Welcome to my world");
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello everyone, Welcome to My World!");
+        }
+    }
 }
 ````
+
+## What's up with all that?
+We will learn more about everything you see above. For now, just notice that the WriteLine function is what caused your program to write to the screen.
