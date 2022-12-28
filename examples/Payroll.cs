@@ -1,15 +1,24 @@
-// Copyright hackingdotnet All Rights Reserved 
+﻿// Copyright hackingdotnet All Rights Reserved 
 
 using System;
 
 
 namespace Payroll
 {
-    class Prayroll
+    
+    class Payroll
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello everyone, Welcome to My World!");
+
+            int hours = 40;
+            double grossPay;
+            double payRate = 35.0;
+
+            grossPay = hours * payRate;
+
+            Console.WriteLine("Welcome to the Payroll App!");
+            Console.WriteLine("Your gross apy is $ {0}", grossPay);
         }
     }
 }
